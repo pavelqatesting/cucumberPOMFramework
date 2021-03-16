@@ -10,8 +10,7 @@ import io.cucumber.junit.CucumberOptions;
 		features = {"src/resource/java/com/features/LoginPage.feature"},
 		glue = {"com.stepdefinations", "Apphooks"},
 		plugin = {"pretty"
-
-				
+		
 		}
 		
 		)
